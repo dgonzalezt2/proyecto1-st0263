@@ -47,3 +47,7 @@ Los DataNodes (esclavos) se comunican regularmente con el NameNode maestro, envi
 
 Para la transferencia de archivos, los clientes interactúan directamente con los DataNodes utilizando gRPC. 
  
+### Referencias:
+
+* [HDFS Architecture](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
+* [Round-Robin](https://www.linkedin.com/advice/0/how-does-round-robin-algorithm-schedule-tasks-irh4c)
