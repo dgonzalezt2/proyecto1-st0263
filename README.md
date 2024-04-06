@@ -51,3 +51,9 @@ Para la transferencia de archivos, los clientes interactúan directamente con lo
 
 * [HDFS Architecture](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
 * [Round-Robin](https://www.linkedin.com/advice/0/how-does-round-robin-algorithm-schedule-tasks-irh4c)
+
+* [GFS](https://es.wikipedia.org/wiki/Google_File_System) 
+* [The Google File System](https://g.co/kgs/XzwmU76)
+
+* [HDFS](https://es.wikipedia.org/wiki/Hadoop_Distributed_File_System)
+* [The Hadoop Distributed File System](https://ieeexplore.ieee.org/document/5496972)
