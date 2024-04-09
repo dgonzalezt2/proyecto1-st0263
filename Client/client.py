@@ -7,7 +7,7 @@ import filetransfer_pb2
 import filetransfer_pb2_grpc
 
 MAX_MESSAGE_LENGTH = 1024 * 1024 * 1024 # 1 GB en bytes
-BASE_URL = 'http://34.31.203.46'
+BASE_URL = 'http://34.123.168.239'
 
 async def upload_request(file_size: int):
     async with httpx.AsyncClient() as client:
