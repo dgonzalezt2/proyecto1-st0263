@@ -1,7 +1,7 @@
 ## ST0263 Tópicos Especiales en Telemática 
 
 * Profesor: Edwin Nelson Montoya Munera, emontoya@eafit.edu.co
-* Estudiante:
+* Estudiantes:
 [Juan Esteban Castro García](https://github.com/castro-1), jecastrog@eafit.edu.co
 | [David González Tamayo](https://github.com/dgonzalezt2), dgonzalez2@eafit.edu.co
 
