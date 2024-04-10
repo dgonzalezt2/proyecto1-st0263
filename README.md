@@ -46,7 +46,12 @@ Los DataNodes (esclavos) se comunican regularmente con el NameNode maestro, envi
 4. Cliente <-> Esclavo (DataNode): 
 
 Para la transferencia de archivos, los clientes interactúan directamente con los DataNodes utilizando gRPC. 
- 
+
+### Ambiente de ejecución AWS
+
+![image](https://github.com/dgonzalezt2/proyecto1-st0263/assets/81880494/b9721a5a-95fe-4747-8244-6b04d413d65c)
+http://3.94.244.87
+
 ### Referencias:
 
 * [HDFS Architecture](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
