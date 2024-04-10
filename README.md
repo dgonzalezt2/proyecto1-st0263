@@ -1,10 +1,12 @@
-## PROYECTO 1: SISTEMA DE ARCHIVOS DISTRIBUIDOS
+## ST0263 Tópicos Especiales en Telemática 
 
- Integrantes:
+* Profesor: Edwin Nelson Montoya Munera, emontoya@eafit.edu.co
+* Estudiante:
+[Juan Esteban Castro García](https://github.com/castro-1), jecastrog@eafit.edu.co
+| [David González Tamayo](https://github.com/dgonzalezt2), dgonzalez2@eafit.edu.co
 
-* [Juan Esteban Castro García](https://github.com/castro-1)
-* [David González Tamayo](https://github.com/dgonzalezt2)
-
+# Nombre de la actividad
+## Proyecto 1: Sistema de archivos distribuidos
 # Contexto: 
 
 Sistemas distribuidos de archivos: Claves en la era digital 
